@@ -1,0 +1,15 @@
+/* universal style */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 400px;
+}
+
+h1 {
+    padding: 10px;
+    margin: 10px;
+}
